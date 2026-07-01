@@ -1,0 +1,3 @@
+{
+  "error": "1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`greenguard_db`.`cart_items`, CONSTRAINT `cart_items_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`))"
+}
